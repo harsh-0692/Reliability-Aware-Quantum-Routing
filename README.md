@@ -67,5 +67,3 @@ Extends the routing framework using Top-k candidate path exploration. Multiple r
 2. Open the notebooks in Google Colab or Jupyter Notebook
 3. Install the required dependencies
 4. Execute the notebooks sequentially
-
-National Institute of Technology Tiruchirappalli
